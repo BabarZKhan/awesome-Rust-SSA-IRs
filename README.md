@@ -31,3 +31,4 @@
 - [roto](https://github.com/NLnetLabs/roto)
 - [charon](https://github.com/AeneasVerif/charon)
 - [egg](https://github.com/egraphs-good/egg)
+- [cairo_native](https://github.com/starkware-libs/cairo_native)
