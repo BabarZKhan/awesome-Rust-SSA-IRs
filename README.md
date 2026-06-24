@@ -35,3 +35,4 @@ A curated list of Rust compiler infrastructure, SSA-based intermediate represent
 - [egg](https://github.com/egraphs-good/egg)
 - [cairo_native](https://github.com/starkware-libs/cairo_native)
 - [inkwell](https://github.com/TheDan64/inkwell)
+- [llvm-ir](https://github.com/cdisselkoen/llvm-ir)
